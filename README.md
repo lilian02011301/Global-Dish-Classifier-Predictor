@@ -1,7 +1,7 @@
 # Global Dish Classifier & Predictor
 In this project, the dataset of dish provided by the moduel of ML, and it consists of two parts where each tackles a different problem.
 
-＃Dataset
+# Dataset
 For this experiment, We are using files from the milend_RC dataset, which comprises images of both chips and rice dishes. The dataset contains approximately 800 images of rice dishes and 73 images of chips. Consequently, rice images are about 16 times more prevalent than chips images. This significant imbalance in the dataset may lead our classifier to be more biased towards rice during training.
 
 # Basic Component
